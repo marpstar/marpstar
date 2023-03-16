@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey. I am Cody Sand.
+#### Web / Mobile Architect
+
+🔨 I’m currently working on [ArcGIS Insights] at [Esri]
+
+👔 [linkedin][Linkedin]
+
+[Esri]: https://www.esri.com
+[Linkedin]: https://www.linkedin.com/in/codyjsand/
+[ArcGIS Insights]: https://doc.arcgis.com/en/insights/latest/get-started/insights-overview.htm
 
 <!--
 **marpstar/marpstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
