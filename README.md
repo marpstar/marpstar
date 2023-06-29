@@ -1,13 +1,15 @@
 ### Hey. I am Cody Sand.
 #### Web / Mobile Architect
 
-🔨 I’m currently working on [ArcGIS Insights] at [Esri]
+- 🔨 I’m currently working on [ArcGIS for Microsoft Office] at [Esri].
+- 🌱 I’m currently learning to utilize AI to make myself more effective.
+
 
 👔 [linkedin][Linkedin]
 
 [Esri]: https://www.esri.com
 [Linkedin]: https://www.linkedin.com/in/codyjsand/
-[ArcGIS Insights]: https://doc.arcgis.com/en/insights/latest/get-started/insights-overview.htm
+[ArcGIS for Microsoft Office]: [https://doc.arcgis.com/en/insights/latest/get-started/insights-overview.htm](https://www.esri.com/en-us/arcgis/products/arcgis-for-microsoft-365/overview)
 
 <!--
 **marpstar/marpstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
