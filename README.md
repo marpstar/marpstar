@@ -1,18 +1,18 @@
 ### Hey. I am Cody Sand.
 #### Web / Mobile Architect
 
-
-# 🔨 Work
-- Senior Software Engineer working on 📍[ArcGIS for Microsoft 365] at 🌎[Esri].
-- Principal Consultant and Founder at ⭐️[Sandtoken](https://www.sandtoken.com/)
-- Previously Principal Software Engineer at 👷🏻[Cartegraph (now OpenGov)](https://www.cartegraph.com)
-- Distant past experiences on 👔[linkedin][Linkedin]
-
 # 🌱 Current Focus
 - 🧠 AI IDEs and Tooling
 - 📦 [Payload CMS](https://www.payloadcms.com)
 - 💅🏼 TailwindCSS
 - ⚡️ Workflow automation (Zapier, n8n, etc)
+
+# 🔨 Work Experience
+- Senior Software Engineer working on 📍[ArcGIS for Microsoft 365] at 🌎[Esri].
+- Principal Consultant and Founder at ⭐️[Sandtoken](https://www.sandtoken.com/)
+- Previously Principal Software Engineer at 👷🏻[Cartegraph (now OpenGov)](https://www.cartegraph.com)
+- Distant past experiences on 👔[linkedin][Linkedin]
+
 
 [Esri]: https://www.esri.com
 [Linkedin]: https://www.linkedin.com/in/codyjsand/
